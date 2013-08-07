@@ -1,4 +1,2 @@
-kannadamovie.github.io
-======================
-
-Kannada Movies
+##Kannada Movies
+[Click here to watch Lucia online](http://kannadamovie.github.io/lucia)
